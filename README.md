@@ -41,7 +41,7 @@ Note that the web application can live on top of multiple Knowledge Repo backend
 ### Installation
 To install the knowledge repository tooling, simply run:
 
-`pip install git+ssh://git@github.com/airbnb/knowledge-repo.git`
+`pip install git+ssh://git@github.com/airbnb/knowledge-repo.git[all]`
 
 ### Setup
 If your organization already has a knowledge data repository setup, check it out onto your computer as you normally would; for example:
